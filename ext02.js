@@ -13,5 +13,5 @@ console.log(check_age(17))
 console.log(check_age(18))
 console.log(check_age(61))
 console.log(check_age(60))
-let myage = 43
-console.log(check_age(myage.toString))
+let myage = "43"
+console.log(check_age(myage))
